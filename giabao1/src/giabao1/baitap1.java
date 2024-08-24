@@ -2,13 +2,7 @@
 
  */
 package giabao1;
-
 import java.util.Scanner;
-
-/**
- *
- * @author Admin
- */
 public class baitap1 {
 
     /**
